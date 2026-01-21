@@ -1,2 +1,2 @@
 # GVR
-official code of ZERO-SHOT VISUAL GROUNDING IN 3D GAUSSIANS VIA VIEW RETRIEVAL
+official code of "Zero-shot Visual Grounding in 3D Gaussians via View Retrieval."
